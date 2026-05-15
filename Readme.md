@@ -1,15 +1,15 @@
-!!!~~ Super Super Kaizo ~~!!!!~ RULESET AND INTRO!
+!!!~~ Super Super Kaizo Ironmon ~~!!!!~ RULESET AND INTRO!
 
 YOU LIKE STREAMING SUPER KAIZO?????
 
-YOU EVER THINK YOU PROBABLY WOULDN'T WIN EVEN IF YOU COULD USE THE HELD ITEMS AND RUN ILLEGAL MONS?
+YOU EVER THINK YOU PROBABLY STILL WOULDN'T WIN EVEN IF YOU COULD USE THE HELD ITEMS AND RUN ILLEGAL MONS?
 
 NOW YOU CAN!!!!
 
 Introducing the latest and greatest updated ruleset for the newest Kaizo Ironmon Challege for Fire Red / Leaf Green romhack!!!!!!!!!
 !!!~~ Super Super Kaizo ~~!!!!~
 
-Welcome to ~~~~~~~~~~~~~~~~~~!!!Super Super Kaizo!!!!~~~~~~~~~~~~ RULES: 
+Welcome to ~~~~~~~~~~~~~~~~~~!!!Super Super Kaizo Ironmon!!!!~~~~~~~~~~~~ RULES: 
 
 Use all Rules from the main Kaizo Ironmon github Excluding the SUPER and SURVIVAL Ironmon rules! 
 
