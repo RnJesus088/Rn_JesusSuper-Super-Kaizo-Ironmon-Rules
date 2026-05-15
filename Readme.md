@@ -1,5 +1,7 @@
+!!!~~ Super Super Kaizo ~~!!!!~ RULESET AND INTRO!
+
 YOU LIKE STREAMING SUPER KAIZO?????
-new SUPER SUPER KAIZO~~!!!!
+
 YOU EVER THINK YOU PROBABLY WOULDN'T WIN EVEN IF YOU COULD USE THE HELD ITEMS AND RUN ILLEGAL MONS?
 
 NOW YOU CAN!!!!
@@ -54,4 +56,4 @@ Fix bad movesets/ stats/ nature with Items and other ruleset banned moves.
 Use all the tools the game gives you to win , not the currently very limited "pray for perfect RNG and still lose, lose or still lose meta!
 Maybe Win a seed within the 1st year ! Win with worse mons with OTHER good RNG on that seed! Don't just go through the motions of Super Kaizo's one perfect mon or Lab mindset! Play the mid and late game daily instead of monthly!
 What I think of saying to the Haters : its like playing Balatro with all the jokers unlocked. Its still Kaizo just get to play with the DLC items and High BST mons some of the time!
-
+!!!~~ Super Super Kaizo ~~!!!!~
