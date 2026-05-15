@@ -16,7 +16,7 @@ Use all Rules from the main Kaizo Ironmon github Excluding the SUPER and SURVIVA
 New Rules:
 
 1. There is no restriction on what pokemon you can run , its moveset (besides using HMs) or the TMs you find. Use all non Gym TMs and currently Banned Moves and Items.
-2. Your still can't heal or use items not in battle and can not leave and reenter Dungeons/ caves/ gyms.
+2. You still can't heal or use items not in battle and can not leave and reenter Dungeons/ caves/ gyms.
 3. Think of Super Super Kaizo Ironmon as not an "easy mode for noobs" but a fun alternative way to re implement some more of the player friendly RNG drops/ moves/ and mons and the amazing Content from doing so
 
 
